@@ -1,6 +1,6 @@
-# Image Glow
+# React Image Glow [:Hover]
 
-A React component for creating glowing image effects using background-image css property.
+A React component for creating glowing image hover effect using background-image css property.
 
 ## Installation
 
