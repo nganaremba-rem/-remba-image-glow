@@ -17,7 +17,7 @@
   "files": [
     "dist"
   ],
-  "version": "1.0.3",
+  "version": "1.0.5",
   "type": "module",
   "scripts": {
     "build": "vite build && tsc"

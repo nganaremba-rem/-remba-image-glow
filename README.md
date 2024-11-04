@@ -5,13 +5,13 @@ A React component for creating glowing image hover effect using background-image
 ## Installation
 
 ```bash
-npm install image-glow
+npm install @remba/image-glow
 ```
 
 # Usage
 
 ```jsx
-import ImageGlow from "image-glow";
+import ImageGlow from "@remba/image-glow";
 
 function App() {
   return (
